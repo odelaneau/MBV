@@ -13,9 +13,9 @@
  You should have received a copy of the GNU General Public License
  along with this program.  If not, see <http://www.gnu.org/licenses/>.*/
 
+#define _DECLARE_TOOLBOX_HERE
 #include "match_data.h"
 
-#define _DECLARE_TOOLBOX_HERE
 void match_main(vector < string > & argv) {
 	match_data D;
 
